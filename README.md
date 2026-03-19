@@ -71,11 +71,6 @@ traitmap/
 | `USER_JOB_INTERACTION` | Weak entity — tracks user interactions with job fields |
 | `recommendations` | Stored recommendation results per user |
 
-**Chapter 3 SQL** — `database/traitmap_complete.sql` contains:
-- **3.1** Aggregate functions, GROUP BY, HAVING, SET operations (UNION, INTERSECT, EXCEPT)
-- **3.2** INNER/LEFT/RIGHT JOINs, correlated subqueries, EXISTS, 3 meaningful VIEWs
-- **3.3** 2 stored functions, 3 triggers, 1 stored procedure with CURSOR + exception handling
-
 ---
 
 ## Setup
